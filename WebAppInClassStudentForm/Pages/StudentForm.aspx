@@ -64,7 +64,7 @@
     <div class="row">
         <div class="col-md-4 text-right">
                   <asp:Label ID="Label3" runat="server" Text="Credits"
-                     AssociatedControlID="Credtis"></asp:Label>
+                     AssociatedControlID="Credits"></asp:Label>
         </div>
         <div class="col-md-4 text-left">
                 <asp:TextBox ID="Credits" runat="server"></asp:TextBox>
